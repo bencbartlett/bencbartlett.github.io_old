@@ -1,5 +1,3 @@
-# This is a test 
-## hello
-### hi
+## I hate redirects
 
-Hello world!
+If you're looking for my personal webpage, head over to [stanford.edu/people/benbartlett](stanford.edu/people/benbartlett)!
