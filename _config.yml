@@ -1,7 +1,7 @@
-title: Bencbartlett.GitHub.io
-description: Personal webpage
+title: Ben Bartlett
+description: 
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
